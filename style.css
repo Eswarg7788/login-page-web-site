@@ -1,0 +1,35 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    position: relative;
+    left: 550px;
+    top: 175px;
+}
+input{
+    display: block;
+    size: 60px;
+    position: relative;
+    top: 30px;
+}
+label{
+    position: relative;
+    top: 30px;
+}
+div{
+    border: 10px solid  rgb(143, 45, 224);
+    padding: 10px;
+    width: 180px;
+    height: 250px;
+}
+.qs{
+    position: relative;
+    left: 70px;
+    
+}
+button{
+    width: 175px;
+    background-color: rgb(143, 45, 224);
+    color: aliceblue;
+    position: relative;
+    top: 30px;
+}
